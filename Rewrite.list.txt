@@ -1,0 +1,2 @@
+hostname = glados.rocks,*.example.com,*.sample.com,www.52pojie.cn,110.43.90.61,zt.wps.cn,api.inews.qq.com,*.youth.cn,ios.baertt.com,api.xiaoheihe.cn,my.ruanmei.com
+^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig) url script-response-body https://raw.githubusercontent.com/yichahucha/surge/master/jd_price.js

@@ -1,0 +1,5 @@
+# > OneDrive
+USER-AGENT,OneDrive*,OneDrive
+USER-AGENT,OneDriveiOSApp*,OneDrive
+HOST-KEYWORD,onedrive,OneDrive
+HOST-SUFFIX,onedrive.com,OneDrive
