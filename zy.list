@@ -4,6 +4,6 @@ HOST-SUFFIX,t.cn,Outside
 IP-CIDR,8.8.8.8/32,Outside
 HOST-KEYWORD,glados,Outside
 #迅雷版权问题
-host, hub5idx.v6.shub.sandai.net, AdBlock
-host, hub5emu.v6.shub.sandai.net, AdBlock
-host, hub5btmain.v6.shub.sandai.net, AdBlock
+#host, hub5idx.v6.shub.sandai.net, AdBlock
+#host, hub5emu.v6.shub.sandai.net, AdBlock
+#host, hub5btmain.v6.shub.sandai.net, AdBlock
