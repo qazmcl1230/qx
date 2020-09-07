@@ -1,5 +1,5 @@
-HOST-SUFFIX,bing.com,Outside
-HOST-SUFFIX,cordcloud.pro,Outside
-HOST-SUFFIX,t.cn,Outside
-IP-CIDR,8.8.8.8/32,Outside
-HOST-KEYWORD,glados,Outside
+HOST-SUFFIX,bing.com,🌏 国外网站
+HOST-SUFFIX,cordcloud.pro,🌏 国外网站
+HOST-SUFFIX,t.cn,🌏 国外网站
+IP-CIDR,8.8.8.8/32,🌏 国外网站
+HOST-KEYWORD,glados,🌏 国外网站
