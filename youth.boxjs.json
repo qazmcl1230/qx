@@ -6,7 +6,7 @@
   "repo": "https://gitee.com/Sunert/Scripts/tree/master",
   "apps": [
     {
-      "id": "youth",
+      "id": "youth1",
       "name": "中青看点1",
       "keys": ["youthheader_zq1", "read_zq1", "red_zq1", "readtime_zq1"],
       "author": "@sunert",
