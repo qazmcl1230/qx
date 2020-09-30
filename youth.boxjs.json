@@ -8,7 +8,7 @@
     {
       "id": "youth",
       "name": "中青看点1",
-      "keys": ["youthheader_zq", "read_zq", "red_zq", "readtime_zq"],
+      "keys": ["youthheader_zq1", "read_zq1", "red_zq1", "readtime_zq1"],
       "author": "@sunert",
       "settings": [
         {
