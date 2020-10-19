@@ -8,11 +8,11 @@
     {
       "id": "lexin",
       "name": "乐心健康",
-      "keys": ["lxhealthCookie"],
+      "keys": ["lxhealthCookie","lxhealthStep"],
       "author": "@我自己",
       "settings": [
         {
-         "id": "lxhealthCookie",
+         "id": "lxhealthStep",
          "name": "步数设置 (点击查看设置说明)",
          "val": "",
          "type": "number",
