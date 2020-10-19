@@ -18,14 +18,15 @@
           "type": "number",
           "placeholder": "默认20007 (点击以展开说明)",
           "desc": "20007+随机数(0-2000)"
-        },
+        }
+                    ]
       "repo": "https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/index.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/lxhealth.png", "https://raw.githubusercontent.com/Orz-3/task/master/lxhealth.png],
       "script": "https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/index.js"
     }
+     ]
       "author": "@我自己",
       "repo": "https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/index.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/lxhealth.png", "https://raw.githubusercontent.com/Orz-3/task/master/lxhealth.png"],
       "script": "https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/index.js"
-  ]
 }
