@@ -1,32 +1,31 @@
 {
   "id": "lexin.app.sub",
   "name": "乐心健康",
-  "author": "@我自己",
+  "author": "@woziji",
   "icon": "https://raw.githubusercontent.com/Orz-3/task/master/lxhealth.png",
-  "repo": "https://github.com/iepngs/Script/master/lxhealth",
+  "repo": "https://gitee.com/Sunert/Scripts/tree/master",
   "apps": [
     {
       "id": "lexin",
       "name": "乐心健康",
-      "keys": ["lxhealthStep"],
+      "keys": ["lxhealthCookie"],
       "author": "@我自己",
       "settings": [
         {
-          "id": "lxhealthStep",
-          "name": "起始步数",
-          "val": "",
-          "type": "number",
-          "placeholder": "默认20007 (点击以展开说明)",
-          "desc": "20007+随机数(0-2000)"
-        },
-                    ],
-      "repo": "https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/index.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/lxhealth.png", "https://raw.githubusercontent.com/Orz-3/task/master/lxhealth.png],
-      "script": "https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/index.js"
+         "id": "lxhealthCookie",
+         "name": "步数设置 (点击查看设置说明)",
+         "val": "",
+         "type": "number",
+         "desc": "默认上传步数: 20007+随机数(0-2000)"
+         }
+       ],
+      "repo": "https://gitee.com/Sunert/Scripts/blob/master/Task/youth.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/youth.png", "https://raw.githubusercontent.com/Orz-3/task/master/lxhealth.png"],
+      "script": "https://gitee.com/Sunert/Scripts/raw/master/Task/youth.js"
     }
-     ],
-      "author": "@我自己",
-      "repo": "https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/index.js",
+         ],
+      "author": "@sunert",
+      "repo": "https://gitee.com/Sunert/Scripts/blob/master/Task/trainquery.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/lxhealth.png", "https://raw.githubusercontent.com/Orz-3/task/master/lxhealth.png"],
-      "script": "https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/index.js"
+      "script": "https://gitee.com/Sunert/Scripts/raw/master/Task/trainquery.js"
 }
