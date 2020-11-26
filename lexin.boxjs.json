@@ -9,8 +9,11 @@
       "id": "lxhealth",
       "name": "乐心健康",
       "keys": [
-        "lxhealthCookie",
-        "lxhealthStep"
+        "qqreadheaderKey1",
+        "qqreadbodyKey1"
+        "qqreadheaderKey2",
+        "qqreadbodyKey2"
+
       ],
       "settings": [
         {
