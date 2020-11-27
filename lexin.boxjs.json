@@ -9,11 +9,28 @@
       "id": "lxhealth",
       "name": "乐心健康",
       "keys": [
+        "qqreadhd1",
         "qqreadtimeurl1",
-        "qqreadtimeurljbid1",
-        "qqreadtimeurl 1",
-        "qqreadtimeurlVal",
-        "qqreadtimeheaderVal"
+        "qqreadtimehd1",
+        "qqreadhd2",
+        "qqreadtimeurl2",
+        "qqreadtimehd2",
+        "qqreadhd3",
+        "qqreadtimeurl3",
+        "qqreadtimehd3",
+        "qqreadhd4",
+        "qqreadtimeurl4",
+        "qqreadtimehd4",
+        "qqreadhd5",
+        "qqreadtimeurl5",
+        "qqreadtimehd5",
+        "qqreadhd6",
+        "qqreadtimeurl6",
+        "qqreadtimehd6",
+        "qqreadhd7",
+        "qqreadtimeurl7",
+        "qqreadtimehd7"
+
 
       ],
       "settings": [
