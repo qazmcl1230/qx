@@ -1,0 +1,10 @@
+# 在主机上操作，进入某个目录，克隆我仓库
+git clone https://github.com/EvineDeng/jd-base
+
+# 进入克隆好的仓库
+cd jd-base
+
+# 构建镜像，注意最后有个点，构建好的镜像名称为jd-base
+docker build -t jd-base:latest -f Docker/Dockerfile .
+
+# 创建容器，和你之前的命令一样，只是最后的镜像从 evinedeng/jd-base:latest 替换为 jd-base:latest
