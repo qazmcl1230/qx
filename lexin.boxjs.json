@@ -9,9 +9,9 @@
       "id": "lxhealth",
       "name": "乐心健康",
       "keys": [
-        "qqreadbodyVal",
-        "qqreadheaderVal",
-        "qqreadurlVal",
+        "qqreadtimeurl1",
+        "qqreadtimeurljbid1",
+        "qqreadtimeurl 1",
         "qqreadtimeurlVal",
         "qqreadtimeheaderVal"
 
