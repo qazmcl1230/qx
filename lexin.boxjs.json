@@ -31,17 +31,8 @@
         "qqreadtimeurl7",
         "qqreadtimehd7"
 
+      ],
 
-      ],
-      "settings": [
-        {
-          "id": "lxhealthStep",
-          "name": "运动步数",
-          "val": "",
-          "type": "text",
-          "desc": "默认上传步数: 20007+随机数(0-2000)"
-        }
-      ],
       "author": "@iepngs",
       "repo": "https://github.com/iepngs/Script",
       "script": "https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/index.js",
