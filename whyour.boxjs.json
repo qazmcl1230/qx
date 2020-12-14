@@ -6,8 +6,8 @@
   "repo": "https://github.com/whyour/hundun",
   "apps": [
     {
-      "id": "shareCode",
-      "name": "互助码",
+      "id": "shareCode1",
+      "name": "互助码1",
       "keys": [
         "zd_shareCode1",
         "nc_shareCode1",
@@ -101,8 +101,8 @@
       ]
     },
     {
-      "id": "supermarket",
-      "name": "京东超市",
+      "id": "supermarket1",
+      "name": "京东超市1",
       "keys": ["zd_shelf_level", "zd_product_level"],
       "settings": [
         {
@@ -136,8 +136,8 @@
       ]
     },
     {
-      "id": "caiyun",
-      "name": "彩云天气",
+      "id": "caiyun1",
+      "name": "彩云天气1",
       "keys": ["caiyun_svip", "caiyun_location"],
       "author": "@whyour",
       "repo": "https://github.com/whyour/hundun/blob/master/quanx/caiyun.js",
@@ -148,8 +148,8 @@
       ]
     },
     {
-      "id": "didi",
-      "name": "滴滴出行",
+      "id": "didi1",
+      "name": "滴滴出行1",
       "keys": [
         "didi_city_id",
         "didi_token",
@@ -166,8 +166,8 @@
       ]
     },
     {
-      "id": "jd_ddxw",
-      "name": "东东小窝",
+      "id": "jd_ddxw1",
+      "name": "东东小窝1",
       "keys": ["jd_ddxw_name1", "jd_ddxw_name2"],
       "settings": [
         {
@@ -194,8 +194,8 @@
       ]
     },
     {
-      "id": "jdzz",
-      "name": "京东赚赚小程序",
+      "id": "jdzz1",
+      "name": "京东赚赚小程序1",
       "keys": ["jdzz_token1", "jdzz_token2"],
       "settings":[
         {
@@ -252,8 +252,8 @@
       ]
     },
     {
-      "id": "jdkc",
-      "name": "京东库存查询",
+      "id": "jdkc1",
+      "name": "京东库存查询1",
       "keys": ["jd_skuIds", "jd_areaId"],
       "settings": [
         {
@@ -280,8 +280,8 @@
       ]
     },
     {
-      "id": "jd_ddgc",
-      "name": "东东工厂",
+      "id": "jd_ddgc1",
+      "name": "东东工厂1",
       "settings": [
         {
           "id": "dd_showLog",
@@ -314,8 +314,8 @@
       ]
     },
     {
-      "id": "jx_gc",
-      "name": "京喜工厂",
+      "id": "jx_gc1",
+      "name": "京喜工厂1",
       "settings": [
         {
           "id": "gc_showLog",
@@ -355,8 +355,8 @@
       ]
     },
     {
-      "id": "jx_gcPlus",
-      "name": "京喜工厂延时任务",
+      "id": "jx_gcPlus1",
+      "name": "京喜工厂延时1",
       "settings": [
         {
           "id": "gc_plusShowLog",
@@ -389,8 +389,8 @@
       ]
     },
     {
-      "id": "jx_cfd",
-      "name": "京喜财富岛",
+      "id": "jx_cfd1",
+      "name": "京喜财富岛1",
       "settings": [
         {
           "id": "cfd_showLog",
@@ -416,8 +416,8 @@
       ]
     },
     {
-      "id": "jx_nc",
-      "name": "京喜农场",
+      "id": "jx_nc1",
+      "name": "京喜农场1",
       "keys": [
         "jxnc_token1",
         "jxnc_token2"
