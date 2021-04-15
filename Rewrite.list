@@ -1,1 +1,2 @@
-hostname = glados.rocks,*.example.com,*.sample.com,www.52pojie.cn,110.43.90.61,zt.wps.cn,api.inews.qq.com,*.youth.cn,ios.baertt.com,api.xiaoheihe.cn,my.ruanmei.com
+hostname = glados.rocks,*.example.com,*.sample.com,www.52pojie.cn,110.43.90.61,zt.wps.cn,api.inews.qq.com,*.youth.cn,ios.baertt.com,api.xiaoheihe.cn
+^https:\/\/api\.xiaoheihe\.cn\/account\/home_v2\/\? url script-request-header https://raw.githubusercontent.com/zZPiglet/Task/master/heybox/heybox.js
